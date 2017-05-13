@@ -1,0 +1,32 @@
+{
+  "name": "vie",
+  "version": "0.0.1",
+  "description": "a view layout engine",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wookets/vie.git"
+  },
+  "keywords": [
+    "view",
+    "layout"
+  ],
+  "author": "wookets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wookets/vie/issues"
+  },
+  "homepage": "https://github.com/wookets/vie#readme",
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-env": "1.4.0",
+    "babel-register": "6.24.1",
+    "eslint": "3.19.0",
+    "express": "4.15.2",
+    "jest": "20.0.1"
+  }
+}

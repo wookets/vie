@@ -1,0 +1,23 @@
+{
+	"id": "homepage",
+	"title": "Vie Homepage",
+	"vie-version": "1",
+	"layout-type": "grid-full-responsive",
+	"layout": [
+		[
+			{
+				"name": "column",
+				"size": "x12",
+				"widgets": [
+					{
+						"id": "widget-story-1",
+						"type": "widget-storycard-banner",
+						"url": "http://www.target.com/c/mothers-day/-/N-56f8aZ5zl7w?lnk=showMomsomelove",
+						"headline": "show Mom some love",
+						"detail": "use Order Pickup to get her gift in time for Mother’s Day"
+					}
+				]
+			}
+		]
+	]
+}
